@@ -1,0 +1,7 @@
+install.packages("devtools")
+install.packages("shiny")
+install.packages("ggplot2")
+install.packages("gridExtra")
+install.packages("pracma")
+install.packages("DT")
+devtools::install_github("khaors/rves")
